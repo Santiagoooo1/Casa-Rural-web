@@ -15,6 +15,7 @@ Diseño responsive con Media Queries.
 Uso de efectos Parallax en secciones clave.
 Elementos interactivos como botones con efectos hover.
 Gestión de reservas simple a través de un formulario dinámico.
+
 👤 Autor
 Este proyecto fue creado por: Santiago Domínguez Lorenzo
 
